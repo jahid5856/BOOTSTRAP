@@ -1,0 +1,15 @@
+.main{
+    color: brown;
+}
+
+
+.box{
+    height: 200px;
+    width: 200px;
+    margin-left: 20px;
+}
+
+
+.card{
+    width: 18rem;
+}
